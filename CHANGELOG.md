@@ -1,5 +1,19 @@
 # Changelog
 
+## [10.1.0](https://github.com/AstroNvim/astrocommunity/compare/v10.0.0...v10.1.0) (2024-06-20)
+
+
+### Features
+
+* **completion:** add `nvim-cmp-buffer-lines` ([#1056](https://github.com/AstroNvim/astrocommunity/issues/1056)) ([07ddd3d](https://github.com/AstroNvim/astrocommunity/commit/07ddd3d2782dca0920faf74be072cb748633a8a1))
+* **completion:** add cmp-nvim-lua ([#1050](https://github.com/AstroNvim/astrocommunity/issues/1050)) ([c127e71](https://github.com/AstroNvim/astrocommunity/commit/c127e7145c44ad0128a121def6e74fd8f270c053))
+* **media:** add `neocord.nvim` ([#1049](https://github.com/AstroNvim/astrocommunity/issues/1049)) ([11217da](https://github.com/AstroNvim/astrocommunity/commit/11217dabdf24bf4c06322830b0dc90b73e176061))
+
+
+### Bug Fixes
+
+* **go:** set default go binary to `"go"` ([#1053](https://github.com/AstroNvim/astrocommunity/issues/1053)) ([67268b2](https://github.com/AstroNvim/astrocommunity/commit/67268b2dd256599b21496aa4e63a3974a4554c13))
+
 ## [10.0.0](https://github.com/AstroNvim/astrocommunity/compare/v9.0.0...v10.0.0) (2024-06-17)
 
 
